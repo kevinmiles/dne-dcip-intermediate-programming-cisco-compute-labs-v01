@@ -1,0 +1,35 @@
+{
+    "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-xml-api-v01",
+    "title": "title",
+    "slug": "whats it about",
+    "time": "30",
+    "byod": true,
+    "moduleOnly": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "tag 2"
+    }, {
+        "title": "tag 3"
+    }, {
+        "title": "tag 4"
+    },{
+        "title": "tag 5"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }],
+    "related": [{
+        "labId": "id-related",
+        "title": "title-related"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": true
+}
