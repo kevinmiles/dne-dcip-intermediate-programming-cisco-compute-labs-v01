@@ -1,8 +1,10 @@
 {
     "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-python-sdk-v01",
-    "title": "title",
+    "title": "More Powerful Cisco Compute Python Scripts with UCS Python SDK",
     "slug": "whats it about",
     "time": "30",
+    "byod": true,
+    "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {

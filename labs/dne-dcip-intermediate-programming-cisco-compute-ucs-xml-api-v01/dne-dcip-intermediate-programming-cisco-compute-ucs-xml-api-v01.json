@@ -1,20 +1,16 @@
 {
     "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-xml-api-v01",
-    "title": "title",
-    "slug": "whats it about",
+    "title": "Let's Take a Look Under the Hood at the UCS XML API",
+    "slug": "Cisco UCS is an Integrated Compute Infrastructure that has supported an XML API since its introduction. UCS Manager, IMC, and UCS Central are the services that provide the XML API endpoint along with a graphical interface and a command line. The UCS components, both physical and logical, are represented as XML objects in a hierarchical Object Model format and can be manipulated via the XML API.",
     "time": "20",
     "byod": true,
     "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
+        "title": "UCS"
     }, {
-        "title": "tag 3"
-    }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "XML"
     }],
     "files": [{
         "title": "1.md"

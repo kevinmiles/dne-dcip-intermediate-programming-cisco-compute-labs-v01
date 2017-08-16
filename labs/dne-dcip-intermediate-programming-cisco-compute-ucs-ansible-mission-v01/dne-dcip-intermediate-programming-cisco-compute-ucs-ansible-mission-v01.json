@@ -1,18 +1,18 @@
 {
     "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-ansible-mission-v01",
-    "title": "title",
-    "slug": "whats it about",
+    "title": "Mission: Managing Cisco Compute with Ansible ",
+    "slug": "Take what you've learned about Ansible from the Managing Cisco Compute with Ansible Learning Lab and put that knowledge to use in this mission that takes you deeper into UCS Ansible Modules.",
     "time": "30",
+    "byod": true,
+    "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
+        "title": "UCS"
     }, {
-        "title": "tag 3"
+        "title": "Ansible"
     }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "Python"
     }],
     "files": [{
         "title": "1.md"

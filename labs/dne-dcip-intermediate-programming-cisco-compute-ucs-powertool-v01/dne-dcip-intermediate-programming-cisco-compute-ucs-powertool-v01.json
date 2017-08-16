@@ -3,6 +3,8 @@
     "title": "title",
     "slug": "whats it about",
     "time": "30",
+    "byod": true,
+    "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
