@@ -1,20 +1,18 @@
 {
     "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-powertool-v01",
-    "title": "title",
-    "slug": "whats it about",
-    "time": "30",
+    "title": "More Powerful Cisco Compute PowerShell Scripts with UCS PowerTool",
+    "slug": "Take UCS PowerTool to the **Next Level**, this lab covers Create a Microsoft Credential Object, Session Management, UCS PowerTool built-in metadata, UCS Admin Service Management and UCS Operation Transactions.",
+    "time": "25",
     "byod": true,
     "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
+        "title": "UCS"
     }, {
-        "title": "tag 3"
+        "title": "PowerTool"
     }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "PowerShell"
     }],
     "files": [{
         "title": "1.md"
@@ -22,6 +20,8 @@
         "title": "2.md"
     }, {
         "title": "3.md"
+    }, {
+        "title": "4.md"
     }],
     "related": [{
         "labId": "id-related",
