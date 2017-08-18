@@ -1,20 +1,16 @@
 {
     "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-python-sdk-v01",
     "title": "More Powerful Cisco Compute Python Scripts with UCS Python SDK",
-    "slug": "whats it about",
-    "time": "30",
+    "slug": "UCS Python SDK is a library of Python Modules that enable the management of UCS environments from Python, via the UCS XML API. Take UCS Python to the **Next Level**, this lab covers UCS Python SDK built-in metadata, UCS Operation Transactions, and UCS Admin Service Management.",
+    "time": "20",
     "byod": true,
     "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
+        "title": "UCS"
     }, {
-        "title": "tag 3"
-    }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "Python"
     }],
     "files": [{
         "title": "1.md"

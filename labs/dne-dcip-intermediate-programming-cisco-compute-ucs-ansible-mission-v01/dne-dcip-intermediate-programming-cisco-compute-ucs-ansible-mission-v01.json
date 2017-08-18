@@ -1,6 +1,6 @@
 {
     "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-ansible-mission-v01",
-    "title": "Mission: Managing Cisco Compute with Ansible ",
+    "title": "Mission: DevOps Compute Farm Management with Ansible",
     "slug": "Take what you've learned about Ansible from the Managing Cisco Compute with Ansible Learning Lab and put that knowledge to use in this mission that takes you deeper into UCS Ansible Modules.",
     "time": "30",
     "byod": true,
