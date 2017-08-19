@@ -20,9 +20,15 @@
         "title": "3.md"
     }],
     "related": [{
-        "labId": "id-related",
-        "title": "title-related"
-    }],
+      "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-ansible-mission-v01",
+      "title": "Mission: DevOps Compute Farm Management with Ansible"
+    },{
+      "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-powertool-v01",
+      "title": "More Powerful Cisco Compute PowerShell Scripts with UCS PowerTool"
+    },{
+      "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-xml-api-v01",
+      "title": "Let's Take a Look Under the Hood at the UCS XML API"
+      }],
     "authors": [{
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"

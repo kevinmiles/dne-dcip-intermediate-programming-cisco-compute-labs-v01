@@ -2,7 +2,7 @@
     "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-ansible-v01",
     "title": "Managing Cisco Compute with Ansible",
     "slug": "Cisco UCS Python SDK provides Ansible modules for UCS Manager that enable Configuration Management of UCS Unified Fabric including network, server, and storage resources. This lab covers installation of the UCS Ansible modules and use of UCS Ansible modules to configure various UCS policies.",
-    "time": "30",
+    "time": "20",
     "byod": true,
     "moduleOnly": true,
     "tags": [{
@@ -20,9 +20,15 @@
         "title": "2.md"
     }],
     "related": [{
-        "labId": "id-related",
-        "title": "title-related"
-    }],
+      "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-powertool-v01",
+      "title": "More Powerful Cisco Compute PowerShell Scripts with UCS PowerTool"
+    },{
+      "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-python-sdk-v01",
+      "title": "More Powerful Cisco Compute Python Scripts with UCS Python SDK"
+    },{
+      "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-xml-api-v01",
+      "title": "Let's Take a Look Under the Hood at the UCS XML API"
+      }],
     "authors": [{
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"
