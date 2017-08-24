@@ -1,20 +1,18 @@
 {
     "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-powertool-mission-v01",
-    "title": "title",
-    "slug": "whats it about",
-    "time": "30",
+    "title": "Mission: Self-Service Compute Scripts built with PowerShell",
+    "slug": "Take what you've learned about UCS PowerTool from the Learning Labs and put that knowledge to use.",
+    "time": "00",
     "byod": true,
     "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
+        "title": "UCS"
     }, {
-        "title": "tag 3"
+        "title": "PowerTool"
     }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "PowerShell"
     }],
     "files": [{
         "title": "1.md"
@@ -26,8 +24,8 @@
         "title": "4.md"
     }],
     "related": [{
-        "labId": "id-related",
-        "title": "title-related"
+        "labId": "dne-dcip-intermediate-programming-cisco-compute-ucs-python-sdk-mission-v01",
+        "title": "Mission: Self-Service Compute Scripts built with Python"
     }],
     "authors": [{
         "name": "John McDonough",
