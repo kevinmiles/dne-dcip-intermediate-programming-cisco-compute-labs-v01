@@ -16,7 +16,7 @@ For public repo Learning Labs, use the issue tracker in the repo. All Learning L
 
 For private Learning Labs, use the common issue tracker in the [CiscoDevNet/learning-labs-issues](https://github.com/CiscoDevNet/learning-labs-issues) repo.
 
-For DevNet Express events, use these three issue tracker repos based on the content track:
+For DevNet Express events, use these Issue tracker repos based on the content track:
 
     https://github.com/CiscoDevNet/devnet-express-dna-issues
     https://github.com/CiscoDevNet/devnet-express-cc-issues
@@ -28,6 +28,6 @@ Also use the issue tracker to find ways to contribute. Test a lab, find a bug, l
 
 ## Changing the Learning Lab content
 
-Generally speaking, you should fork the Learning Lab repository, make changes in your fork, and then submit a Pull Request (PR). We expect you have validated that all documented tasks work as expected. Plus, the content should follow the [Learning Lab Style Guide](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Lab-Style-Guide).
+Generally speaking, you should clone the Learning Lab repository, make changes locally, and then submit a Pull Request (PR). We expect you have validated that all documented tasks work as expected. Plus, the content should follow the [Learning Lab Style Guide](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Lab-Style-Guide).
 
 The [DevNet Writing Guidelines Wiki](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki) describes the review and publishing process in detail. Please feel free to request reviews from DevNet contributors you see in the repository and we will review submissions.
