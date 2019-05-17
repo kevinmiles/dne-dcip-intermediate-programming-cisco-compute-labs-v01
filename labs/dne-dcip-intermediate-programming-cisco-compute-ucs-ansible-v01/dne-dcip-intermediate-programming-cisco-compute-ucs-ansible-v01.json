@@ -4,7 +4,7 @@
     "slug": "Cisco UCS Python SDK provides Ansible modules for UCS Manager that enable Configuration Management of UCS Unified Fabric including network, server, and storage resources. This lab covers installation of the UCS Ansible modules and use of UCS Ansible modules to configure various UCS policies.",
     "time": "20",
     "byod": true,
-    "moduleOnly": true,
+    "moduleOnly": false,
     "tags": [{
         "title": "Data Center"
     }, {
